@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J5";"Connector_IDC_2x05_P1.27";1;"Conn_ARM_JTAG_SWD_10";;;
+2;"H3,H4,H1,H2";"MountingHole_3.2mm_M3_Pad_Via";4;"MountingHole";;;
+3;"R1";"R_0603_1608Metric";1;"470R";;;
+4;"J3";"IDC-Header_2x10_P2.54mm_Vertical";1;"Conn_ARM_JTAG_SWD_20";;;
+5;"J2";"IDC-Header_2x05_P2.54mm_Vertical";1;"Conn_ARM_JTAG_SWD_10";;;
+6;"J1";"IDC-Header_2x03_P2.54mm_Vertical";1;"Conn_02x03_Odd_Even";;;
+7;"J4";"IDC_Connector_2x03_P1.27mm";1;"Conn_02x03_Odd_Even";;;
